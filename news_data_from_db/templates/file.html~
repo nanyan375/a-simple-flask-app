@@ -1,0 +1,3 @@
+<p>title: {{content.content}}</p>
+<p>created_time: {{content.create_time}}</p>
+<p>content: {{content.category}}</p>

@@ -1,0 +1,4 @@
+<ul>
+    <li>{{content[0].title}}<a href='http://127.0.0.1:3000/files/1'></a></li>
+    <li>{{content[1].title}}<a href='http://127.0.0.1:3000/files/2'></a></li>
+</ul>
